@@ -47,7 +47,7 @@ For Software:
 
 Installation
 
-git clone https://github.com/username/appam-economy.git
+git clone https://github.com/username/Team710.git
 cd appam-economy
 npm install
 
